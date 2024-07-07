@@ -1,3 +1,8 @@
+# WARNING!
+THIS IS A FORK OF REPO BELOW WITH A TINY FIX. IT WILL BE DELETED ONCE [THIS](https://github.com/folke/flash.nvim/pull/283) PULL REQUEST IS MERGED INTO MAIN.
+
+DO NOT USE IT!
+
 # ⚡flash.nvim
 
 `flash.nvim` lets you navigate your code with search labels,
